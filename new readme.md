@@ -3,7 +3,7 @@
 % Dataset created by Android smartphone and a foot-mounted IMU module (X-IMU from x-io Technologies).
 % Date of creation: Oct 2, 2018 to Oct 28, 2018.
 % Developed by Research Center for Ubiquitous Computing Systems, Institute of Computing Technology Chinese Academy of Sciences, Beijing, China.
-% The sample program stores information from Smartphone internal sensors (Accelerometers, Gyroscopes, Magnetometers) and also from external devices (X-IMU)
+% The sample program stores information from Smartphone internal sensors (Accelerometers, Gyroscopes, Magnetometers) and also from external devices (X-IMU).
 %
 % Phone used for this Dataset:
 % Manufacturer: Huawei
